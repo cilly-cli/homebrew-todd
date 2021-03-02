@@ -1,10 +1,10 @@
 
 class Todd < Formula
-  url "https://github.com/cilly-cli/binary-todd/releases/download/v1.0.0/todd.tar.gz"
-  desc "Binary todd"
-  version "v1.0.0"
+  url "https://github.com/cilly-cli/binary-todd/releases/download/v1.0.1/todd.tar.gz"
+  desc "You a big William Hung fan?"
+  version "v1.0.1"
   homepage "https://github.com/cilly-cli/binary-todd#readme"
-  sha256 "70b4992895187f9eced7cc3a06e4b66503c420d9210fa3ab7e7ffd8cdc5d4cad"
+  sha256 "e0821d5055d25bfe542e9793a8318916cfbd33bc3d002a367c877e35fabf9a61"
 
   def install
     bin.install "todd"
